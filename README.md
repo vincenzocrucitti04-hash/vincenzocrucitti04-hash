@@ -86,7 +86,7 @@ Sito portfolio personale che include:
 - 🎨 **Design responsive** e moderno
 - ⚡ **Performance ottimizzate**
 
-**Tech:** `HTML5` `CSS3` `JavaScript`
+**Tech:** `HTML5` `CSS3`
 
 ---
 

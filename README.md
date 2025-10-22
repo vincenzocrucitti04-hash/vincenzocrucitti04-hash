@@ -49,7 +49,7 @@ I'm a passionate **Junior Frontend Developer** focused on modern web technologie
 ## 🎯 Progetti in Evidenza | Featured Projects
 
 ### 🎮 **FrontEnd Riverloop - Flip and Match**
-> *Interactive Memory Game con React | 2024*
+> *Interactive Memory Game con React | 2025*
 
 Un gioco di memoria interattivo realizzato con React, che presenta:
 - 🎨 **Immagini dinamiche** di Pokémon recuperate tramite API
@@ -63,7 +63,7 @@ Un gioco di memoria interattivo realizzato con React, che presenta:
 ---
 
 ### 🎬 **Movie Database**
-> *Web Application per Database Cinematografico | 2024*
+> *Web Application per Database Cinematografico | 2025*
 
 Applicazione web completa per esplorare il mondo del cinema:
 - 🎥 **Catalogo completo** di film esistenti
@@ -77,7 +77,7 @@ Applicazione web completa per esplorare il mondo del cinema:
 ---
 
 ### 💼 **Portfolio Website**
-> *Il mio primo progetto web | 2024*
+> *Il mio primo progetto web | 2025*
 
 Sito portfolio personale che include:
 - 👤 **Sezione About Me** con descrizione personale
